@@ -1,11 +1,14 @@
-
-/* Your CSS Code here. */
-.holder{
-	display:flex;
-	justify-content:space-between;
+.holder {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
-.item{
-	background-color:green;
-	
+
+.item {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
 	
 }
